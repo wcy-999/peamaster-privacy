@@ -1,2 +1,7 @@
-# peamaster-privacy
-Privacy policy for 我在末世种豌豆
+# 我在末世种豌豆 · 隐私政策
+
+开发运营者：汪晨雨（个人开发者）。
+
+本仓库仅承载公开隐私说明，不含游戏源代码、安装包、存档或签名资料。
+
+政策网页：index.html；同源纯文本：privacy_policy.txt。
